@@ -1,32 +1,22 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to my portfolio website!
 
+In this repo, I created a website to display my work more a visual, organized and fun way. 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+You will find the summary of each analysis along with the section tools and languages I used to execute those analysis. 
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+The below is the titles of the analysis:
+1.	End-to-end Diabetes Data Analysis with Python
+2.	Diet and health Analysis with SQL (Data Cleaning and Transformation with SQL)
+3.	Crowd Funding Analysis with EXCEL 
+4.	Data Modeling and Data Engineering with SQL
+5.	US Stock Market Analysis with VBA
+6.	Crowd Funding ETL
+7.	Hawaii Weather Analysis with SQLAlchemy and FLASK API
+8.	The UK Food Standards Analysis with MongoDB (NoSQL)
+9.	Mars News Website: Web Scrapping with Python 
+10.	Data Extracting Open Weather Map API
+11.	Financial Records Analysis with Python
+12.	School District Analysis with Pandas
+13.	Pharmaceuticals Lab Experiment Analysis with Matplotlib
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Hope you find my work impressive. Please do not hesitate to reach out to me at budaasuren@gmail.com. 
