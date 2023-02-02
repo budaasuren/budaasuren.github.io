@@ -2,7 +2,7 @@ Welcome to my portfolio website!
 
 In this repo, I created a website to display my work more a visual, organized and fun way. 
 
-You will find the summary of each analysis along with the section tools and languages I used to execute those analysis. 
+You will find the summary of each analysis along with the section for tools and languages I used to execute those analysis. 
 
 The below is the titles of the analysis:
 1.	End-to-end Diabetes Data Analysis with Python
