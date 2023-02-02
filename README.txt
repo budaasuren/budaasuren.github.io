@@ -5,7 +5,7 @@ In this repo, I created a website to display my work more a visual, organized an
 You will find the summary of each analysis along with the section for tools and languages I used to execute those analysis. 
 
 The below is the titles of the analysis:
-1.	End-to-end Diabetes Data Analysis with Python
+1.	End-to-end Diabetes Data Analysis and Model Building with Python
 2.	Diet and health Analysis with SQL (Data Cleaning and Transformation with SQL)
 3.	Crowd Funding Analysis with EXCEL 
 4.	Pewlett Hackard Employee Database Modeling and Engineering with SQL
